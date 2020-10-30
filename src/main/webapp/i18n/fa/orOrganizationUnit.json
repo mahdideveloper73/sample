@@ -1,0 +1,23 @@
+{
+  "sampleApp": {
+    "orOrganizationUnit": {
+      "home": {
+        "title": "Or Organization Units",
+        "createLabel": "Create a new Or Organization Unit",
+        "createOrEditLabel": "Create or edit a Or Organization Unit",
+        "notFound": "No Or Organization Units found"
+      },
+      "created": "A new Or Organization Unit is created with identifier {{ param }}",
+      "updated": "A Or Organization Unit is updated with identifier {{ param }}",
+      "deleted": "A Or Organization Unit is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Or Organization Unit {{ id }}?"
+      },
+      "detail": {
+        "title": "Or Organization Unit"
+      },
+      "name": "Name",
+      "parentId": "Parent Id"
+    }
+  }
+}
